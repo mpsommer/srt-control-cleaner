@@ -1,0 +1,265 @@
+1
+00:00:28,174 --> 00:00:29,395
+en --> One has to search
+sp --> Hay que buscar ya
+fr --> Il faut déjà de chercher
+gr --> Man muss schon suchen
+
+2
+00:00:29,394 --> 00:00:30,879
+en --> to find him
+sp --> para el encontrar
+fr --> pour le trouver
+gr --> um ihn zu finden
+
+3
+00:00:30,889 --> 00:00:32,524
+en --> This dream is hidden
+sp --> Este sueno esta oculto
+fr --> Ce rêve est caché
+gr --> Dieser Traum liegt versteckt	
+
+4
+00:00:32,527 --> 00:00:35,882
+en --> Although he often talks about it
+sp --> Aunque a menudo habla de ello
+fr --> Bien qu’il en parle souvent
+gr --> Obwohl er oft davon spricht
+
+5
+00:00:40,150 --> 00:00:42,829
+en --> A battered hero seeks refuge
+sp --> Un héroe maltratado busca refugio
+fr --> Un héros battu cherche refuge
+gr --> Ein geschundener Held sucht Zuflucht
+
+6
+00:00:42,829 --> 00:00:47,865
+en --> Under the thatched roof above the future
+sp --> Bajo el tejado de cana sobre el futuro
+fr --> Sous le toit de chaume sur l’avenir
+gr --> Unter dem Reetdach über der Zukunft
+
+7
+00:00:52,610 --> 00:00:55,658
+en --> In a linen suit ankle-deep in the water
+sp --> En un traje de lino al tobillo en el agua
+fr --> Dans un costume de lin à la cheville dans l’eau
+gr --> Im Leinenanzug bis zum Knöchel im Wasser
+
+8
+00:00:55,668 --> 00:00:56,941
+en --> Back to the hut
+sp --> Espalda a la cabana
+fr --> Dos à la cabane
+gr --> Rücken zur Hütte
+
+9
+00:00:56,940 --> 00:00:58,484
+en --> Face to the wind
+sp --> Cara al viento
+fr --> Face au vent
+gr --> Gesicht in den Wind
+
+10
+00:00:58,484 --> 00:01:02,320
+en --> Sea air and smoke mix in the lungs
+sp --> Aire de mar y humo se mezclan en el pulmón
+fr --> L’air marin et la fumée se mélangent dans les poumons
+gr --> In der Lunge mischt sich Seeluft und Rauch
+
+11
+00:01:02,330 --> 00:01:05,002
+en --> Wealth belongs only a spare tire
+sp --> Del bienestar es sólo una barriga
+fr --> Au bien-être n’est qu’un ventre
+gr --> Wohlstand gehört nur ein Bauch
+
+12
+00:01:16,271 --> 00:01:18,005
+en --> Only known footprints
+sp --> Solamente huellas conocidas
+fr --> Seules les empreintes connues
+gr --> Nur bekannte Fußspuren
+
+13
+00:01:18,000 --> 00:01:19,691
+en --> in the small stain sand
+sp --> en la pequeña mancha de arena
+fr --> dans le petit sable taché
+gr --> im kleinen Fleckensand
+
+14
+00:01:19,691 --> 00:01:23,038
+en --> between the thousand angular stones
+sp --> entre las mil piedras angulares
+fr --> entre les mille pierres angulaires
+gr --> zwischen den tausend kantigen Steinen
+
+15
+00:01:23,170 --> 00:01:26,669
+en --> This place is not made for leaving
+sp --> Este lugar no está hecho para irse
+fr --> Cet endroit n’est pas fait pour partir
+gr --> Dieser Ort ist nicht zum Gehen gemacht
+
+16
+00:01:26,883 --> 00:01:32,470
+en --> One needs to stay here, yes
+sp --> Hay que quedarse aquí, si
+fr --> Il faut rester ici, oui
+gr --> Hier muss man bleiben, ja
+
+17
+00:01:33,000 --> 00:01:35,936
+en --> One needs to stay here
+sp --> Hay que quedarse aquí
+fr --> Il faut rester ici
+gr --> Hier muss man bleiben
+
+18
+00:01:39,886 --> 00:01:41,861
+en --> The sea condition is bearable here
+sp --> El mar es soportable aqui
+fr --> L’état de la mer est passable ici
+gr --> Hier ist der Seegang erträglich
+
+19
+00:01:41,861 --> 00:01:43,379
+en --> Together lonely
+sp --> Junto solitario
+fr --> Ensemble seul
+gr --> Zusammen einsam
+
+20
+00:01:43,389 --> 00:01:45,870
+en --> Forever, for the most too little
+sp --> Para siempre, demasiado poco para su mayoría
+fr --> Pour toujours, trop peu pour la plupart
+gr --> Für ewig, den Meisten zu wenig
+
+21
+00:01:45,910 --> 00:01:47,006
+en --> Reaches oneself
+sp --> Alcanza a si mismo
+fr --> Atteint lui-même
+gr --> Erreicht sich selbst
+
+22
+00:01:47,006 --> 00:01:48,915
+en --> and not the other anyway
+sp --> y no el otro de todos modos
+fr --> et pas l’autre quand même
+gr --> und den Anderen eh nicht
+
+23
+00:01:48,925 --> 00:01:50,617
+en --> Hunts everyone into the waves
+sp --> Caza a todos en las olas
+fr --> Chasse tout le monde dans les vagues
+gr --> Jagt alle in die Wellen
+
+24
+00:01:50,627 --> 00:01:51,545
+en --> and begs afterwards
+sp --> y ruega después
+fr --> et prie ensuite
+gr --> und fleht danach
+
+25
+00:01:51,545 --> 00:01:54,100
+en --> Please do not go
+sp --> No vayas por favor
+fr --> Pas d’aller s’il vous plaît
+gr --> Bitte geht nicht
+
+26
+00:02:03,620 --> 00:02:06,249
+en --> Please do not go
+sp --> No vaya por favor
+fr --> Pas d’aller s’il vous plaît
+gr --> Bitte geht nicht
+
+27
+00:02:16,594 --> 00:02:17,580
+en --> The house protects
+sp --> La casa esta protegida
+fr --> La maison est protégée
+gr --> Das Haus beschützt
+
+28
+00:02:17,580 --> 00:02:19,867
+en --> and keeps him for me
+sp --> y le guarde para mi
+fr --> et lui garde pour moi
+gr --> und bewahrt ihn für mich auf
+
+29
+00:02:19,938 --> 00:02:22,174
+en --> I have always loved the idea
+sp --> Siempre me ha gustado la idea
+fr --> J’ai toujours aimé l’idée
+gr --> Habe die Vorstellung immer geliebt
+
+30
+00:02:22,184 --> 00:02:25,880
+en --> But the door is forever waiting for
+sp --> Pero la puerta lo espera para siempre
+fr --> Mais la porte l’attend pour toujours
+gr --> Doch die Tür wartet für immer darauf
+
+31
+00:02:25,891 --> 00:02:29,820
+en --> that he closes it from the inside
+sp --> que el los cierra desde el interior
+fr --> qu’il le ferme de l’intérieur
+gr --> dass er sie von innen verschließt
+
+32
+00:02:31,268 --> 00:02:32,625
+en --> I do not know yet
+sp --> Aun no se
+fr --> Je ne sais pas encore
+gr --> Ich weiß noch nicht
+
+33
+00:02:32,630 --> 00:02:34,329
+en --> if this is also my dream
+sp --> si es mi sueno también
+fr --> si c’est aussi mon rêve
+gr --> ob es auch mein Traum ist
+
+34
+00:02:34,339 --> 00:02:38,669
+en --> But find this house for you
+sp --> Pero encuentra esta casa para ti
+fr --> Mais trouve cette maison pour toi
+gr --> Aber finde dieses Haus für dich
+
+35
+00:02:40,182 --> 00:02:45,408
+en --> I find this house for you, Dad
+sp --> Encuentro esta casa para ti, Papá
+fr --> Je trouve cette maison pour toi, Papa
+gr --> Ich finde dieses Haus für dich, Papa
+
+36
+00:02:49,193 --> 00:02:53,567
+en --> I find this house
+sp --> Encuentro esta casa
+fr --> Je trouve cette maison
+gr --> Ich finde dieses Haus
+
+37
+00:02:53,567 --> 00:02:59,608
+en --> house for you, Dad, oh
+sp --> casa para ti, Papá, oh
+fr --> maison pour toi, Papa, oh
+gr --> Haus für dich, Papa, oh
+
+38
+00:03:01,279 --> 00:03:07,617
+en --> I find this house for you
+sp --> Encuentro esta casa para ti
+fr --> Je trouve cette maison pour toi
+gr --> Ich finde dieses Haus für dich
